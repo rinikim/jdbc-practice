@@ -23,5 +23,5 @@
         - 커넥션 획득하기 위한 표준 인터페이스, HikariCP의 DataSource 사용
 
 
-**참고**
-- 10개 프로젝트로 완성하는 백엔드 웹개발(Java/Spring) 초격차 패키지 Online.
+### reference
+패스트캠퍼스 : 10개 프로젝트로 완성하는 백엔드 웹개발(Java/Spring) 초격차 패키지 Online.
